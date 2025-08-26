@@ -1,4 +1,4 @@
-# Desafio 1 - Sistema de Pagamentos PIX (Microserviços)
+# Sistema de Pagamentos PIX (Microserviços)
 
 ## Objetivo
 Construir um ecossistema de microserviços que simule a realização de pagamentos via PIX, respeitando boas práticas de arquitetura distribuída.
